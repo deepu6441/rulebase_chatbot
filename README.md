@@ -112,7 +112,7 @@ For unrecognized inputs, the chatbot will respond: "I am not sure about that. Ca
     self.user_input_field.delete(0, END) 
 
 ## Screenshots
-![Refrence Image](/Screenshot/Screenshot%202025-01-17%20141435.png) 
+![image alt](https://github.com/deepu6441/rulebase_chatbot/blob/44926dc16351ae18e4726ee118768dad722a0f67/Screenshot%202025-01-17%20141435.png) 
 
 ## Customization
 Add more cartoon characters and responses by extending the self.rules dictionary in the CartoonChatbot class.
