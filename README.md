@@ -9,12 +9,15 @@ The Cartoon Talks Chatbot is a simple chatbot application built with Python's tk
 
 3) Displays user messages and bot responses in a user-friendly GUI.
 
-## Prerequisites
-To run this project, you need:
+## How to Run:
 
-    1 Python 3.x installed on your system.
+1. Prerequisites: Ensure you have Python 3 and the tkinter library installed. You can install tkinter using pip install tkinter.
 
-    -Basic knowledge of running Python scripts.
+2. Save the Code: Save the Python code (provided below) as a file named cartoon_chatbot_gui.py.
+
+3. Run the Script: Open a terminal or command prompt, navigate to the directory where you saved the file, and execute the following command:
+    bash
+   cartoon_chatbot.py
 
 ## Installation
 Clone or download the repository containing the chatbot script.
